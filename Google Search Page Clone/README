@@ -1,0 +1,12 @@
+Concepts Learned during this clonign assignments are:
+1. CSS Syntax - Properties, Values, 
+2. Inline vs Block - An inline element does not start on a new line. 
+An inline element only takes up as much width as necessary. 
+while A block-level element always starts on a new line and takes up the full width available
+3. Margins - used to create space around elements
+4. Padding - used to create space around an element's content
+5. Borders
+6. Divs 
+7. Classes
+8. Centering - Centering lines of text, Centering a block of text or an image
+9. Flexbox - to create a row or a column axis layout
