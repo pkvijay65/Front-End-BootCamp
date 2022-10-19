@@ -1,0 +1,11 @@
+So, this was my first scrim using JavaScript (yaay!) and I'd say it's pretty cool!
+Anyways, here is what I learnt during this scrim:
+1. script tag 
+2. variables in js
+3. numbers
+4. strings
+5. console.log and its role in debugging
+6. functions
+7. the DOM
+8. getElementbyId()
+9. innerText vs textContent
